@@ -1,0 +1,12 @@
+System1 Sys1
+-Planet Alpha 340 89 Earth 648897 20
+-Planet HomeWorld 2804 890 IronOxideSand 648897 20
+-Planet Hello -2804 -890 Water 648897 10
+-Asteroid common -200 20000 807 20
+-Gate 1 2800 900
+-Station Station1 200 1000
+-Asteroid common -2000 2000 8043787 20
+System2 Sys2
+--
+-Gate 0 3000 3000
+-Station TradeHub 1000 2000
