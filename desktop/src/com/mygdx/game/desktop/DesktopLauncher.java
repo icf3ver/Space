@@ -7,6 +7,16 @@ import com.mygdx.game.Window;
 public class DesktopLauncher {
 	public static void main (String[] arg) {
 		LwjglApplicationConfiguration config = new LwjglApplicationConfiguration();
+		config.title = "Space";
+		config.width = 1300;
+		config.height = 800;
+
+		try {
+			Thread.sleep(1000);
+		} catch (Exception e) {
+
+		}
 		new LwjglApplication(new Window(), config);
 	}
 }
+
