@@ -20,7 +20,7 @@ public class Map extends Thread{
         solarSystem = new ArrayList();
 
         //file
-        File file = new File("/Users/22ballmerl/Desktop/Projects/Programming/Java/test/core/src/System");
+        File file = new File("System");
 
         try {
             //create scanner
@@ -100,7 +100,7 @@ public class Map extends Thread{
     }
 
     private void gateAssembly(){
-        File file = new File("/Users/22ballmerl/Desktop/Projects/Programming/Java/test/core/src/System");
+        File file = new File("System");
 
         try {
             Scanner sc = new Scanner(file);
@@ -129,7 +129,7 @@ public class Map extends Thread{
 
         public Player getPlayer(String name){
 
-        File file = new File("/Users/22ballmerl/Desktop/Projects/Programming/Java/test/core/src/System");
+        File file = new File("System");
         int system = -1;
         int positionInSystem = 0;
         try{
