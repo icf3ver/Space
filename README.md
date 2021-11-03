@@ -19,22 +19,3 @@ The text file [a relative link](System) is configurable. To generate your own Sy
 |-Station <name> <x> <y> | Creates a station with a name and a position|
 
 Any other text as well as empty lines may confuse the program.
-
-## TODO
-* Enemies
-* New Asteroid types
-* Player id system
-* Player inventory system
-* Player health
-* Player money
-* Multiplayer
-* Internal customization
-  * Players (to move around the ship)
-  * Helm
-  * Items
-  * Walls
-  * Doors
-  * Engines
-  * Spawn-points
-* Damageable components
-* Main menu
